@@ -18,3 +18,7 @@ dependencies:
   - tqdm
   - pathlib
   - ipywidgets
+  - tropycal
+  - scipy=1.1.0
+  - networkx=2.0.0
+  - pyshp=2.1
